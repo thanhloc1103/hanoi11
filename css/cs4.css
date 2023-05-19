@@ -1,0 +1,58 @@
+/* --------------------- interface4------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,600&display=swap');
+
+.interface4 {
+  background-image: url('background/hd-wallpaper-2068283.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+.inter4-head h1 {
+  font-family: 'Sigmar', cursive;
+  font-size: 60px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: black;
+  position: relative;
+}
+
+.inter4body-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.inter4body-img img {
+  width: 70%;
+  height: 500px;
+  border-radius: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.inter4body h2 {
+  font-family: 'Shantell Sans', cursive;
+  margin-top: 10px;
+  font-size: 30px;
+
+  margin-left: 30px;
+}
+
+.inter4body-text {
+  margin-left: 40px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+  font-size: 20px;
+}
+
+.inter4body-text p {
+  font-family: 'Shantell Sans', cursive;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  margin-right: 50px;
+  font-size: 23px;
+}
